@@ -1,0 +1,15 @@
+{
+  "name": "converter",
+  "version": "1.0.0",
+  "description": "vmsisdn to msisdn in xlsx",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "conv": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.17.3"
+  }
+}
